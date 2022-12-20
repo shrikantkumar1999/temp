@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfoliooo/static/css/main.d9dbf199.chunk.css",
-    "main.js": "/portfoliooo/static/js/main.77647179.chunk.js",
-    "main.js.map": "/portfoliooo/static/js/main.77647179.chunk.js.map",
-    "runtime-main.js": "/portfoliooo/static/js/runtime-main.7b18dcc0.js",
-    "runtime-main.js.map": "/portfoliooo/static/js/runtime-main.7b18dcc0.js.map",
-    "static/js/2.19dce60d.chunk.js": "/portfoliooo/static/js/2.19dce60d.chunk.js",
-    "static/js/2.19dce60d.chunk.js.map": "/portfoliooo/static/js/2.19dce60d.chunk.js.map",
-    "index.html": "/portfoliooo/index.html",
-    "precache-manifest.87fac68b69aaedcf983587cec4401038.js": "/portfoliooo/precache-manifest.87fac68b69aaedcf983587cec4401038.js",
-    "service-worker.js": "/portfoliooo/service-worker.js",
-    "static/css/main.d9dbf199.chunk.css.map": "/portfoliooo/static/css/main.d9dbf199.chunk.css.map",
-    "static/js/2.19dce60d.chunk.js.LICENSE": "/portfoliooo/static/js/2.19dce60d.chunk.js.LICENSE",
-    "static/media/codeforces.jpg": "/portfoliooo/static/media/codeforces.b82ec4ea.jpg",
-    "static/media/error404.jpg": "/portfoliooo/static/media/error404.ea69a3b8.jpg",
-    "static/media/github.png": "/portfoliooo/static/media/github.398f840c.png",
-    "static/media/me.jpg": "/portfoliooo/static/media/me.65bdba15.jpg"
+    "main.css": "/portfolio/static/css/main.d9dbf199.chunk.css",
+    "main.js": "/portfolio/static/js/main.2aa1e99b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2aa1e99b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.860ade9b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.860ade9b.js.map",
+    "static/js/2.5c479c53.chunk.js": "/portfolio/static/js/2.5c479c53.chunk.js",
+    "static/js/2.5c479c53.chunk.js.map": "/portfolio/static/js/2.5c479c53.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.37fc3105a6888716885e1368a026489c.js": "/portfolio/precache-manifest.37fc3105a6888716885e1368a026489c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.d9dbf199.chunk.css.map": "/portfolio/static/css/main.d9dbf199.chunk.css.map",
+    "static/js/2.5c479c53.chunk.js.LICENSE": "/portfolio/static/js/2.5c479c53.chunk.js.LICENSE",
+    "static/media/codeforces.jpg": "/portfolio/static/media/codeforces.b82ec4ea.jpg",
+    "static/media/error404.jpg": "/portfolio/static/media/error404.ea69a3b8.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.398f840c.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.65bdba15.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b18dcc0.js",
-    "static/js/2.19dce60d.chunk.js",
+    "static/js/runtime-main.860ade9b.js",
+    "static/js/2.5c479c53.chunk.js",
     "static/css/main.d9dbf199.chunk.css",
-    "static/js/main.77647179.chunk.js"
+    "static/js/main.2aa1e99b.chunk.js"
   ]
 }
