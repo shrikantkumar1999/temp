@@ -28,14 +28,14 @@ class Projects extends Component {
                                 <div className="item col-lg-4 col-md-6">
                                     <div className="icon">
                                         <i className="icon-diploma">
-                                            <a   ><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                            <a href={"https://leetcode.com/"}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
                                         </i>
                                     </div>
                                     <h3 className="h5">facebook-clone</h3>
                                     <p>facebook-clone website </p>
                                 </div>
-                                  
-
+                                      
+  
                                  
                                
                                 <div className="item col-lg-4 col-md-6">
@@ -50,7 +50,7 @@ class Projects extends Component {
                                 <div className="item col-lg-4 col-md-6">
                                     <div className="icon">
                                         <i className="icon-diploma">
-                                            <a href={""}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                            <a href={"https://leetcode.com/"}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
                                         </i>
                                     </div>
                                     <h3 className="h5">Weather-Mix App</h3>
@@ -60,7 +60,7 @@ class Projects extends Component {
                                 <div className="item col-lg-4 col-md-6">
                                     <div className="icon">
                                         <i className="icon-diploma">
-                                            <a href={""}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                            <a href={"https://leetcode.com/"}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
                                         </i>
                                     </div>
                                     <h3 className="h5">RESPONSE TIME BASED BRAKING SYSTEM(MAJOR PROJECT)</h3>

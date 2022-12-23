@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import Social from './Social';
-
+ 
 class Skills extends Component {
     render() {
         return (
             <div>
                 <Navbar />
-                <div className="pt-5 pb-5" style={{ backgroundColor: "#ff7e5f" }}>
+                <div className="pt-5 pb-5" style={{ backgroundColor: "#ff7e5e" }}>
 
                     <div className="row mr-0">
                         <div className="col-lg-7 mx-auto">

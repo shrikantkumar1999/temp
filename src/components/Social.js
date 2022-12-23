@@ -35,6 +35,12 @@ class Social extends Component {
                                     <i id="social-so" class="fa fa-stack-overflow fa-2x social"></i>
                                 </a>
                             </li>
+                            <li className="list-inline-item">
+                                <a href="tel:+9971863733"  rel="noopener noreferrer">
+                                    <i id="social-ig" class="fa fa-mobile fa-2x social"></i>
+                                </a> 
+                            </li>
+                             
                         </ul>
                     </div>
                 </div>

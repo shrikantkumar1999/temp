@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 // import { Route,Routes, BrowserRouter as Router } from 'react-router-dom'
 import './index.css';
-import { BrowserRouter,  Route, Switch } from "react-router-dom";
+import {   HashRouter,  Route, Switch } from "react-router-dom";
 import App from './App';
 import About from './components/About';
 import Projects from './components/Projects';
@@ -13,18 +13,21 @@ import * as serviceWorker from './serviceWorker';
 
 
 const routing = (
-    <BrowserRouter>
+    
+    <HashRouter> 
          <div>
+           
             <Switch>
-            <Route exact path="/" component={App} />
-                <Route path="/About" component={About} />
-                <Route path="/Projects" component={Projects} />
+
+            <Route  exact path="/" component={App} />
+                <Route  path="/About" component={About} />
+                <Route  path="/Projects" component={Projects} />
                 <Route path="/Skills" component={Skills} />
                 <Route path="/Contact" component={Contact} />
-                <Route component={Notfound} />
+                <Route  path="*" component={Notfound} />
             </Switch>
        </div>
-    </BrowserRouter>
+    </HashRouter>
 )
 
 

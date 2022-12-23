@@ -33,6 +33,7 @@ class Contact extends Component {
         // Get values
         var title = "Contact form for resume";
         var name = document.getElementById("name").value;
+        var date=Date();
         var email = document.getElementById("email").value;
         var phone = document.getElementById("phone").value;
         var message = document.getElementById("message").value;
@@ -40,7 +41,7 @@ class Contact extends Component {
         // console.log(messagesRef);
         var newMessageRef = messagesRef.push();
         newMessageRef.set({
-            title: title,
+            title: title,date:date,
             name: name,
             email: email,
             phone: phone,

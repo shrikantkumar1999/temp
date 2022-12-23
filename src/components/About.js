@@ -21,6 +21,7 @@ class About extends Component {
                                     <p className="mb-0 mt-2 font-italic">"I am a Electronic and communication Engineering undergraduated
                                     student from Indian Institute of Information Technology Kota .I like building new
                                     stuff and work with other people."</p>
+                                     
                                 </div>
                             </div>
                         </div>
