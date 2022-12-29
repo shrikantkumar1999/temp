@@ -7,7 +7,7 @@ class Skills extends Component {
     render() {
         return (
             <div>
-                <Navbar />
+                <Navbar /><br></br><br></br><br></br>
                 <div className="pt-5 pb-5" style={{ backgroundColor: "#ff7e5e" }}>
 
                     <div className="row mr-0">

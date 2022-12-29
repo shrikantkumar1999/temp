@@ -7,7 +7,7 @@ class Projects extends Component {
     render() {
         return (
             <div>
-                <Navbar />
+                <Navbar /><br></br><br></br><br></br>
                 <div>
                     <section id="extra-features" class="extra-features pt-5 pb-5" style={{ backgroundColor: "#ea353d" }}>
                         <div className="container text-center">

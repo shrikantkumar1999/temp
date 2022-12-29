@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d9dbf199.chunk.css",
-    "main.js": "/portfolio/static/js/main.f9791c87.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f9791c87.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.860ade9b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.860ade9b.js.map",
-    "static/js/2.22b89c20.chunk.js": "/portfolio/static/js/2.22b89c20.chunk.js",
-    "static/js/2.22b89c20.chunk.js.map": "/portfolio/static/js/2.22b89c20.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.7b90a1e347855f82fa35f864473811ff.js": "/portfolio/precache-manifest.7b90a1e347855f82fa35f864473811ff.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.d9dbf199.chunk.css.map": "/portfolio/static/css/main.d9dbf199.chunk.css.map",
-    "static/js/2.22b89c20.chunk.js.LICENSE": "/portfolio/static/js/2.22b89c20.chunk.js.LICENSE",
-    "static/media/codeforces.jpg": "/portfolio/static/media/codeforces.b82ec4ea.jpg",
-    "static/media/error404.jpg": "/portfolio/static/media/error404.ea69a3b8.jpg",
-    "static/media/github.png": "/portfolio/static/media/github.398f840c.png",
-    "static/media/me.jpg": "/portfolio/static/media/me.c10d2ad6.jpg"
+    "main.css": "/static/css/main.d9dbf199.chunk.css",
+    "main.js": "/static/js/main.9962d0c4.chunk.js",
+    "main.js.map": "/static/js/main.9962d0c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.170f8412.js",
+    "runtime-main.js.map": "/static/js/runtime-main.170f8412.js.map",
+    "static/js/2.6c1f1b3a.chunk.js": "/static/js/2.6c1f1b3a.chunk.js",
+    "static/js/2.6c1f1b3a.chunk.js.map": "/static/js/2.6c1f1b3a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.78d803985bf36cc9af6ce029dfcf3418.js": "/precache-manifest.78d803985bf36cc9af6ce029dfcf3418.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d9dbf199.chunk.css.map": "/static/css/main.d9dbf199.chunk.css.map",
+    "static/js/2.6c1f1b3a.chunk.js.LICENSE": "/static/js/2.6c1f1b3a.chunk.js.LICENSE",
+    "static/media/codeforces.jpg": "/static/media/codeforces.b82ec4ea.jpg",
+    "static/media/error404.jpg": "/static/media/error404.ea69a3b8.jpg",
+    "static/media/github.png": "/static/media/github.398f840c.png",
+    "static/media/me.jpg": "/static/media/me.c10d2ad6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.860ade9b.js",
-    "static/js/2.22b89c20.chunk.js",
+    "static/js/runtime-main.170f8412.js",
+    "static/js/2.6c1f1b3a.chunk.js",
     "static/css/main.d9dbf199.chunk.css",
-    "static/js/main.f9791c87.chunk.js"
+    "static/js/main.9962d0c4.chunk.js"
   ]
 }

@@ -300,3 +300,16 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+.fixed{
+  position:fixed;z-index: 1;width: 100%; 
+
+}
+.Link{
+  color: rgb(205, 152, 152);
+}
+.Link:hover {
+  color: rgb(236, 228, 228);list-style: none;
+}
+.link:active{
+  color: #000;
+}
