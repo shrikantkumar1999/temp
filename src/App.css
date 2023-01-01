@@ -112,7 +112,7 @@ ul.timeline:before {
   left: 16px;
   width: 4px;
   height: 100%;
-  z-index: 400;
+  z-index: 2;
   border-radius: 1rem;
 }
 
@@ -141,7 +141,7 @@ li.timeline-item::before {
   left: 11px;
   width: 14px;
   height: 14px;
-  z-index: 400;
+  z-index:1;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
@@ -301,7 +301,7 @@ ol, ul {
   margin-left: 20px;
 }
 .fixed{
-  position:fixed;z-index: 1;width: 100%; 
+  position:fixed;z-index: 3;width: 100%; 
 
 }
 .Link{

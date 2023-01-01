@@ -36,7 +36,7 @@ class Social extends Component {
                                 </a>
                             </li>
                             <li className="list-inline-item">
-                                <a href="tel:+9971863733"  rel="noopener noreferrer">
+                                <a href="tel:+917891965319"  rel="noopener noreferrer">
                                     <i id="social-ig" class="fa fa-mobile fa-2x social"></i>
                                 </a> 
                             </li>

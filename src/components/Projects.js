@@ -28,7 +28,7 @@ class Projects extends Component {
                                 <div className="item col-lg-4 col-md-6">
                                     <div className="icon">
                                         <i className="icon-diploma">
-                                            <a href={"https://leetcode.com/"}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                            <a href={"https://shrikantkumar1999.github.io/facebook/"}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
                                         </i>
                                     </div>
                                     <h3 className="h5">facebook-clone</h3>

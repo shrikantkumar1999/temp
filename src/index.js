@@ -18,7 +18,8 @@ const routing = (
              <Route  path="/Projects" component={Projects} />
              <Route path="/Skills" component={Skills} />
              <Route path="/Contact" component={Contact} />
-             <Route component={Notfound} />
+
+             <Route path="*" component={Notfound} />
              </Switch>
        </div>
        </HashRouter>

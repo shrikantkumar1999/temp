@@ -3,13 +3,7 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 import Social from './Social';
 import firebase from 'firebase';
-
-class Contact extends Component {
-   
-    addMessage(e) {
-        e.preventDefault();
-        // Your web app's Firebase configuration
-        var firebaseConfig = {
+var firebaseConfig = {
             // apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
             // authDomain: "XXXXXXXXXXXXXXXXXX",
             // databaseURL: "XXXXXXXXXXXXXXXXXX",
@@ -30,6 +24,12 @@ class Contact extends Component {
         // Initialize Firebase
         firebase.initializeApp(firebaseConfig);
         firebase.analytics();
+class Contact extends Component {
+   
+    addMessage(e) {
+        e.preventDefault();
+        // Your web app's Firebase configuration
+        
         // Get values
         var title = "Contact form for resume";
         var name = document.getElementById("name").value;
@@ -46,14 +46,21 @@ class Contact extends Component {
             email: email,
             phone: phone,
             message: message
-        });
-        document.querySelector('.alert').style.display = 'block';
+        }).then(()=>{
+              document.querySelector('.alert').style.display = 'block';
         // Hide alert after 3 seconds
         setTimeout(function () {
             document.querySelector('.alert').style.display = 'none';
-        }, 1800);
+        }, 3000);
         // Clear form
-        document.getElementById('contactForm').reset();
+        document.getElementById('contactForm').reset(); 
+        }).catch ((error)=> {
+            console.log(error);
+        });
+        
+
+     
+       
     }
     render() {  console.log("starCountRef");
         return (

@@ -16,13 +16,13 @@ class Nav extends Component {
                     <div className="collapse navbar-collapse" id="collapsibleNavbar">
                         <ul className="navbar-nav ml-auto mr-5">
                             <li className="nav-item">
-                                <Link   to='/About' >ABOUT</Link>
+                                <Link  className="nav-link" to='/About' >ABOUT</Link>
                             </li>
                             <li className="nav-item">
-                                <Link  className='Link' to="/Projects" >PROJECTS</Link>
+                                <Link  className="nav-link" to="/Projects" >PROJECTS</Link>
                             </li>
-                            <li className="nav-item">
-                                <Link style={{color:"red"}}   to="/Skills">SKILLS</Link>
+                            <li className="nav-item"> 
+                                <Link className="nav-link"  to="/Skills">SKILLS</Link>
                             </li>
                             <li className="nav-item">
                                 <Link className="nav-link" to="/Contact">CONTACT</Link>
